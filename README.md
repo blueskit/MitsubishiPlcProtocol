@@ -3,7 +3,7 @@
 感谢 https://github.com/SatohNorio, 这里的MC协议的代码在 https://github.com/SatohNorio/McProtocol 的基础上改进得来。
 
 ## HOW TO USE
-    将src目录下的文件直接加到目标项目文件中即可。
+    将Mitsubishi、FX等目录及其下文件直接加到目标项目中即可。
 
 ## 下面是读写Q系列的示例代码（ASCII-3E或BIN-3E格式）
 	public static class McTest
